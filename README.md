@@ -13,6 +13,11 @@ To build a working prototype that combines:
 - **Anthropic LLM**: Claude model for natural language understanding.
 - **Text2SQL agent**: Converts natural queries to SQL statements for query execution.
 
+| Framework                           | Key Features                                                                 | Strengths                                                                                   | Ideal Use Cases                            | References                                                                                      |
+|-------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Anthropic Claude and MCP Agentic Framework​ | Natural language to SQL, agent orchestration, Chainlit UI, LLM integration, API-ready, conversational, modular, Pythonic, dotenv config, SQLAlchemy support, interactive chat | Seamless natural language processing, modular architecture, multi-agent flow, easy UI setup, scalable logic, developer-friendly, portable, and well-documented | LLM UI demos, SQL automation, teaching assistants | [GitHub](https://github.com/yiqiaoyin/chainlit-mcp-sql-demo) <br> [YouTube](https://youtube.com) |
+
+
 ---
 
 ## 📦 Installation Instructions
